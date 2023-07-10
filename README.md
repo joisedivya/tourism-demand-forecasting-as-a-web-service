@@ -9,3 +9,10 @@ The web service uses advanced machine learning techniques to analyze historical 
 The service provides a user-friendly interface where users can easily submit forecasting requests and obtain the predicted results.
 ##### Historical Data Analysis: 
 The service includes modules for analyzing historical tourism data, identifying patterns, and extracting meaningful insights to improve the accuracy of forecasts.
+#### Requirements
+The software is developed with all the basic controls and class provided in 
+SQL & PHP, Windows XP or above installed on the system. Application 
+package must be installed. 
+Operating system : Windows XP or above, Mac OS  
+Developing tool : Xampp
+ 
