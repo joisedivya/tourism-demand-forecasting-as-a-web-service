@@ -16,7 +16,10 @@ package must be installed.
 Operating system : Windows XP or above, Mac OS  
 Developing tool : Xampp
 ### Customization
-Input Parameters: Users can customize the forecasting request by specifying the destination, start and end dates, and any other relevant parameters.
-Algorithm Selection: Users can choose from different forecasting algorithms or models depending on their preferences and data characteristics.
-Data Sources: The web service can be modified to incorporate additional data sources, such as weather data, socio-economic indicators, or events calendars, to improve the accuracy of forecasts.
+#### Input Parameters: 
+Users can customize the forecasting request by specifying the destination, start and end dates, and any other relevant parameters.
+#### Algorithm Selection: 
+Users can choose from different forecasting algorithms or models depending on their preferences and data characteristics.
+#### Data Sources: 
+The web service can be modified to incorporate additional data sources, such as weather data, socio-economic indicators, or events calendars, to improve the accuracy of forecasts.
  
