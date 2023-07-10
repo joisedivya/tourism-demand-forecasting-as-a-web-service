@@ -13,8 +13,10 @@ The service includes modules for analyzing historical tourism data, identifying 
 The software is developed with all the basic controls and class provided in 
 SQL & PHP, Windows XP or above installed on the system. Application 
 package must be installed. 
-Operating system : Windows XP or above, Mac OS  
-Developing tool : Xampp
+#### Operating system :  
+Windows XP or above, Mac OS  
+#### Developing tool : 
+Xampp
 ### Customization
 #### Input Parameters: 
 Users can customize the forecasting request by specifying the destination, start and end dates, and any other relevant parameters.
